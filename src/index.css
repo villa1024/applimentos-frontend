@@ -1,0 +1,75 @@
+* {
+    margin-top: 0px;
+}
+body {
+    margin: 0px auto 20px auto;
+    padding: 0px;
+}
+span {
+    font-size: 25px;
+}
+.titulo {
+    font-weight: bold;
+    border: none;
+}
+.pp {
+    font-weight: normal;
+}
+.form-dia {
+    max-width: 1200px;
+    margin: 40px auto;
+    border: 1px double;
+    padding: 20px;
+    width: 90%;
+}
+.form-date {
+    margin: 0 auto;
+    max-width: 200px;
+    text-align: center;
+}
+.form-micuenta {
+    border: 1px double;
+    margin: 50px auto;
+    padding: 20px;
+    width: 90%;
+    max-width: 700px;
+}
+.card {
+    max-width: 350px;
+    margin: 0 auto;
+}
+.screen-dia {
+    margin: 30px auto;
+}
+.screen-alimentos {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/* UTILIDADES */
+.fz-15 {
+    font-size: 15px;
+}
+.fz-20 {
+    font-size: 20px;
+}
+.fz-30 {
+    font-size: 30px;
+}
+.fz-40 {
+    font-size: 40px;
+}
+.ml-auto {
+    text-align: right;
+}
+.color-white {
+    color: white!important;
+}
+.color-white:hover {
+    color: rgb(194, 194, 194);
+}
+.bg-blue {
+    background-color: #0B5ED7;
+    color: white;
+    padding: 10px;
+}
