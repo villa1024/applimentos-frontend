@@ -1,6 +1,8 @@
 # applimentos-frontend
 
-## https://applimentos.netlify.app
+## [Pulse aquí para probar Demo](https://applimentos.netlify.app)
+
+#### Si desea agregar un nuevo alimento, pulse aquí: [Agregar Alimento](https://applimentos-create.netlify.app/)
 
 Creado con:
   - React.js
